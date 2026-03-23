@@ -1,8 +1,8 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Pawan Nikam
 ====================================================================================================================================
 
-Python | Data Science | Embedded Systems | ML
----------------------------------------------
+Python | Data Science | Embedded Systems | ML | IOT  |
+-------------------------------------------------------
 
 I’m a final-year engineering student passionate about building real-world tech solutions. My interests lie in Data Science, Embedded Systems, and Cybersecurity. I enjoy working on projects that combine hardware and software, such as smart automation systems and AI-based applications. Currently, I am focused on strengthening my problem-solving skills and building impactful projects for real-world use.
 
